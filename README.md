@@ -2,7 +2,7 @@
 <a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Haxor BD" src=".__src__/haxorbd.png"></a>
+<a href="#"><img title="happi BD" src=".__src__/haxorbd.png"></a>
 <p align="center">
 <a href="https://github.com/htr-tech"><img title="Author" src="https://img.shields.io/badge/Author-htr--tech-red.svg?style=for-the-badge&logo=github"></a>
 </p>
@@ -18,16 +18,16 @@
 * `apt update`
 * `apt install git python python2 -y`
 * `git clone https://github.com/htr-tech/haxorbd.git`
-* `cd haxorbd`
+* `cd bob24`
 
-#### > Run : `python2 haxor.py`
+#### > Run : `python2 happi.py`
 
-#### USERNAME : `hapi`
+#### USERNAME : `happi`
 #### PASSWORD : `bob24`
 
 ## Single Command :
 ```
-apt update ; apt install git python python2 -y ; git clone https://github.com/htr-tech/haxorbd.git ; cd haxorbd ; python2 haxor.py
+apt update ; apt install git python python2 -y ; git clone https://github.com/htr-tech/haxorbd.git ; cd bob24 ; python2 happi.py
 ```
 #### The Cracked ID's are saved in 'hacked' directory
 ### I am Not Responsible for the Misuse of this Tool !!
