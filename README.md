@@ -22,8 +22,8 @@
 
 #### > Run : `python2 haxor.py`
 
-#### USERNAME : `haxor`
-#### PASSWORD : `htrtech`
+#### USERNAME : `hapi`
+#### PASSWORD : `bob24`
 
 ## Single Command :
 ```
@@ -42,7 +42,7 @@ apt update ; apt install git python python2 -y ; git clone https://github.com/ht
 ## Features :
 #### [+] No Login Required !
 #### [+] All Bangladeshi Operators are Available !
-#### [+] 7,8,9,10,11 DIGITS are Available !
+#### [+] ,8,9,10,11,12,13 DIGITS are Available !
 #### [+] Easy for Beginners !
 
 ## Find Me on :
