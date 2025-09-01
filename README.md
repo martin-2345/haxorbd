@@ -42,7 +42,7 @@ apt update ; apt install git python python2 -y ; git clone https://github.com/ht
 ## Features :
 #### [+] No Login Required !
 #### [+] All Bangladeshi Operators are Available !
-#### [+] ,8,9,10,11,12,13 DIGITS are Available !
+#### [+] ,1,2,3,4,5,6,DIGITS are Available !
 #### [+] Easy for Beginners !
 
 ## Find Me on :
